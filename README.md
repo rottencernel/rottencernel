@@ -1,4 +1,4 @@
-### Hi there 👋
+### I have no idea what is going on at all
 
 <!--
 **rottencernel/rottencernel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
